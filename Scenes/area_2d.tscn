@@ -140,7 +140,7 @@ position = Vector2(25.5, 53.5)
 scale = Vector2(2.59375, 2.53125)
 sprite_frames = SubResource("SpriteFrames_ytk8d")
 autoplay = "default"
-frame_progress = 0.790334
+frame_progress = 0.568266
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(20, 48)

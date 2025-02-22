@@ -201,6 +201,9 @@ layer_0/tile_data = PackedInt32Array(458768, 393216, 0, 327698, 393216, 0, 19661
 [node name="Area2D" parent="TileMap" instance=ExtResource("4_mgq5f")]
 position = Vector2(-121.333, -4)
 
+[node name="Area2D2" parent="TileMap" instance=ExtResource("4_mgq5f")]
+position = Vector2(398, -22)
+
 [node name="Area2D" parent="." instance=ExtResource("4_mgq5f")]
 position = Vector2(116, 393)
 
