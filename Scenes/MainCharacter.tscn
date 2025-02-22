@@ -203,4 +203,4 @@ position = Vector2(34, 43.5)
 scale = Vector2(3.125, 3.46875)
 sprite_frames = SubResource("SpriteFrames_kte2v")
 autoplay = "default"
-frame_progress = 0.116702
+frame_progress = 0.596575
